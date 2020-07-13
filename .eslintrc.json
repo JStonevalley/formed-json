@@ -1,0 +1,8 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["plugin:react/recommended", "plugin:react-hooks/recommended","plugin:prettier/recommended"],
+  "rules": {
+    "react/prop-types": 0,
+    "import/order": 2
+  }
+}
